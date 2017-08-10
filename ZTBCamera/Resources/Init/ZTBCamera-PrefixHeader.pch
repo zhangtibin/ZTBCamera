@@ -1,0 +1,27 @@
+//
+//  ZTBCamera-PrefixHeader.pch
+//  ZTBCamera
+//
+//  Created by Tibin Zhang on 2017/5/27.
+//  Copyright © 2017年 Xueshan Financial Information Service Co., Ltd. All rights reserved.
+//
+
+#ifndef ZTBCamera_PrefixHeader_pch
+#define ZTBCamera_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ZTBCamera_PrefixHeader_pch */
+
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import "ZTBDefine.h"
+#import "ZTBCommon.h"
+#import "ZTBEnum.h"
+#import <Masonry/Masonry.h>
+#import "UIColor+HexString.h"
+
+#endif
