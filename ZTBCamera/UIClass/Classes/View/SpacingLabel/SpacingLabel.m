@@ -3,7 +3,7 @@
 //  XSD
 //
 //  Created by Tibin Zhang on 16/7/5.
-//  Copyright © 2016年 Xueshan Financial Information Service Co., Ltd. All rights reserved.
+//  Copyright © 2016年 Dreams of Ideal World Co., Ltd. All rights reserved.
 //
 
 #import "SpacingLabel.h"

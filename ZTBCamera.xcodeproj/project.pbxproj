@@ -1390,7 +1390,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
-				ORGANIZATIONNAME = "Xueshan Financial Information Service Co., Ltd";
+				ORGANIZATIONNAME = "Dreams of Ideal World Co., Ltd";
 				TargetAttributes = {
 					9AC29AC91ED8192500AA43A9 = {
 						CreatedOnToolsVersion = 8.3.2;

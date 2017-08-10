@@ -3,7 +3,7 @@
 //  FortuneTreasure
 //
 //  Created by Tibin Zhang on 2017/4/12.
-//  Copyright © 2017年 Xueshan Financial Information Service Co., Ltd. All rights reserved.
+//  Copyright © 2017年 Dreams of Ideal World Co., Ltd. All rights reserved.
 //
 
 #define CLAMP_COLOR_VALUE(v) (v) = (v) < 0 ? 0 : (v) > 1 ? 1 : (v)
